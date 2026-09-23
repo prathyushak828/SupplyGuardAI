@@ -1,0 +1,7 @@
+Customer,SKU,Quantity,Due Date,Status,Supplier
+Acme Manufacturing,SKU-100,25,2026-11-20,Open,Apex Components
+Globex Energy,SKU-300,12,2026-11-06,Open,Orbit Electronics
+Initech Utilities,SKU-200,300,2026-12-01,Open,Northwind Metals
+Umbrella Plants,SKU-500,30,2026-10-20,Open,Orbit Electronics
+Stark Fabrication,SKU-400,100,2026-11-15,Open,Harbor Supply
+Wayne Logistics,SKU-200,150,2026-11-25,Open,Northwind Metals
