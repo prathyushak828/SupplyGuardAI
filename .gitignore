@@ -1,0 +1,17 @@
+# Secrets: never commit these
+.env
+*.local.http
+
+# Build output
+target/
+node_modules/
+dist/
+
+# Python
+.venv/
+__pycache__/
+evals/results/
+
+# OS and logs
+.DS_Store
+*.log
